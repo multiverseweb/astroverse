@@ -6,9 +6,9 @@ window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
   if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
-    mybutton.style.display = "block";
+    mybutton.style.opacity="1";
   } else {
-    mybutton.style.display = "none";
+    mybutton.style.opacity="0";
   }
 }
 
