@@ -20,7 +20,7 @@ Astroverse is a personal project dedicated to capturing the mesmerizing wonders 
 
 ## 📸 Showcase
 
-![Astroverse Gallery](link-to-your-image.jpg)
+![Astroverse](stars1.jpg)
 
 ## 🌌 Explore the Cosmos
 
